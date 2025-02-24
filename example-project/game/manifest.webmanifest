@@ -1,0 +1,12 @@
+{
+  "name": "Ragged Dogs (Old platformer) - Copy",
+  "short_name": "Ragged Dogs (Old platformer) - Copy",
+  "id": "com.example.platformer",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
